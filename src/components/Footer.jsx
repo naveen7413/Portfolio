@@ -11,7 +11,7 @@ function Footer() {
             
           <a href="https://github.com/naveen7413" target="_blank">GitHub</a> 
           <a href="https://www.linkedin.com/in/naveen-kumar-6a29a9216/" target="_blank">LinkedIn</a>
-          <a href="indiannavi3@gmail.com">Email</a>
+          <a href="indiannavi3@gmail.com" target="_blank">Email</a>
         </div>
       </div>
     </footer>
