@@ -25,6 +25,9 @@ const Hero = () => {
               }}
             />
           </div>
+          <p>I approach software engineering with curiosity, dedication, and a problem-solving mindset.
+            My ability to work across various programming languages and handle complex tasks enables me to contribute effectively to i
+            mpactful and high-quality software solutions.</p>
 
           <a href="#contact" className="btn">Contact Me</a>
         </div>
