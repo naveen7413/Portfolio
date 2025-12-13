@@ -5,7 +5,7 @@ This portfolio is built using **React + Vite**, designed to be clean, fast, and 
 
 🚀 **Live Preview:** 👉 [Visit My Portfolio](https://portfolio-eight-xi-68.vercel.app/)
 
----
+--- -
 
 ## ✨ About the Project
 
